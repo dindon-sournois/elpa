@@ -819,6 +819,13 @@ it is disabled.
 
 ;;;***
 
+;;;### (autoloads nil "lsp-ruby-lsp" "lsp-ruby-lsp.el" (0 0 0 0))
+;;; Generated autoloads from lsp-ruby-lsp.el
+
+(register-definition-prefixes "lsp-ruby-lsp" '("lsp-ruby-lsp-"))
+
+;;;***
+
 ;;;### (autoloads nil "lsp-ruby-syntax-tree" "lsp-ruby-syntax-tree.el"
 ;;;;;;  (0 0 0 0))
 ;;; Generated autoloads from lsp-ruby-syntax-tree.el
@@ -1046,7 +1053,7 @@ it is disabled.
 ;;;***
 
 ;;;### (autoloads nil nil ("lsp-cmake.el" "lsp-d.el" "lsp-dhall.el"
-;;;;;;  "lsp-mode-pkg.el" "lsp.el") (0 0 0 0))
+;;;;;;  "lsp-mode-pkg.el" "lsp-tilt.el" "lsp.el") (0 0 0 0))
 
 ;;;***
 
